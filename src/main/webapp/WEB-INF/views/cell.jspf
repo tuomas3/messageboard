@@ -1,0 +1,4 @@
+<div id="cell">
+<div id="date"><c:out value="${messagedataobject.date}" /></div>   <div id="username"><c:out value="${messagedataobject.username}" /></div><br>
+<c:out value="${messagedataobject.message}" /><br>
+</div>

@@ -1,0 +1,37 @@
+#cell {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    background-color:#2e2e1f;
+    color:#80aaff;
+}
+
+#date {
+    display: inline-block;
+    color: #ff6666;
+}
+
+#username {
+    display: inline-block;
+    color: #00cc00;
+}
+
+body {
+    background-color:#3d3d29;
+    color: white;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+a:active {
+    color: white;
+}
